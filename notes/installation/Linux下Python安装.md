@@ -56,10 +56,10 @@ source /etc/profile
 
 ### 5. 验证安装是否成功
 
-输入 `python3` 命令，如果能进入 python 交互环境，则代表安装成功：
+输入 `python` 命令，如果能进入 python 交互环境，则代表安装成功：
 
 ```shell
-[root@hadoop001 app]# python3
+[root@hadoop001 app]# python
 Python 3.6.8 (default, Mar 29 2019, 10:17:41)
 [GCC 4.8.5 20150623 (Red Hat 4.8.5-36)] on linux
 Type "help", "copyright", "credits" or "license" for more information.
